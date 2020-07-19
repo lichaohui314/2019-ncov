@@ -10,7 +10,7 @@
     "dayjs": "^1.8.20",
     "echarts": "^4.6.0",
     "echarts-for-react": "^2.0.15-beta.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lodash.keyby": "^4.6.0",
     "pinyin": "^2.9.0",
     "province-city-china": "^5.0.2",
